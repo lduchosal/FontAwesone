@@ -21,4 +21,6 @@ var tabbaricon = FA.Glass.TabBarIcon();
 
 ## Sample
 
+![FAViewController][FAViewController]
+
 [FAViewController]: https://github.com/lduchosal/FontAwesone/blob/master/FontAwesome/FAViewController.png
